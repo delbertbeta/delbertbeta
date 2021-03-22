@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning React/RxJS/Frontend
 - 📫 How to reach me: delbertbeta@live.com
 
-🔗 https://index.delbertbeta.cc
+🔗 https://delbertbeta.life
